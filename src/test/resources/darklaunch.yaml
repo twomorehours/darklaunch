@@ -1,0 +1,8 @@
+rules:
+  - key: a
+    enable: true
+    rule: "%30"
+
+  - key: b
+    enable: true
+    rule: "10,100,100-150"
